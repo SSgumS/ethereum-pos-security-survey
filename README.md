@@ -10,6 +10,4 @@ A comprehensive survey on security threats, attacks, and mitigations in Proof-of
 
 This survey was completed in early 2023 but remained unpublished. Publishing it now on arXiv will make it accessible to researchers working on blockchain security, potentially benefiting the community even if some content reflects the 2023 landscape.
 
-If you are an established arXiv author in cs.CR (Cryptography and Security) and find this work meets arXiv's standards, I would greatly appreciate your endorsement.
-
-**To endorse:** Please contact me at sssafais@hotmail.com to request the endorsement code. The full PDF is available in this repository for your review.
+If you are an established arXiv author in cs.CR (Cryptography and Security) and find this work meets arXiv's standards, I would greatly appreciate your endorsement. The [full PDF](./A-survey-on-security-of-Proof-of-Stake-PoS-Ethereum.pdf) is available in this repository for your review. Contact information is provided in the PDF.
